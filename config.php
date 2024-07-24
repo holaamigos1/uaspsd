@@ -1,8 +1,8 @@
 <?php
-$host = 'localhost';
-$user = 'k2736510_superuser';
-$pass = 'Indomaret321!';
-$db = 'k2736510_uaspsd';
+$host = '0';
+$user = '0';
+$pass = '0';
+$db = '0';
 
 $dbconnect = new mysqli("$host", "$user", "$pass", "$db");
 
